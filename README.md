@@ -23,10 +23,15 @@ I'm currently helping build modern government tourism websites aimed at replacin
 * Performance-focused web applications
 * System architecture
 
+## 🔗 Other GitHub Profile
+
+Check out my other GitHub profile for additional projects, experiments, and work:
+👉 https://github.com/kyatrixxkush
+
 ## 📫 How to Reach Me
 
 📧 Email: [kimanimukundi605@gmail.com](mailto:kimanimukundi605@gmail.com)
 
 ## ⚡ Fun Fact
 
-Sometimes I help people solve their relationship and dating problems too 😄
+Sometimes I help people solve relationship and dating problems too 😄
