@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋 I'm Kimani
 
-<!--
-**kimanimukundi/kimanimukundi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Information Technology Student
+💻 Passionate about software engineering, scalable systems, and modern web development.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently helping build modern government tourism websites aimed at replacing outdated existing platforms with faster, cleaner, and more user-friendly systems.
+
+## 🛠️ Tech Stack
+
+* Python
+* C++
+* Next.js 14
+* TypeScript
+* Tailwind CSS
+
+## 🌱 Interests
+
+* Full-stack development
+* Government digital transformation
+* UI/UX modernization
+* Performance-focused web applications
+* System architecture
+
+## 📫 How to Reach Me
+
+📧 Email: [kimanimukundi605@gmail.com](mailto:kimanimukundi605@gmail.com)
+
+## ⚡ Fun Fact
+
+Sometimes I help people solve their relationship and dating problems too 😄
